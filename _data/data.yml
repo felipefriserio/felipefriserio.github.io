@@ -16,7 +16,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: MBA Java Applications Development
+  - degree: Java Applications Development MBA
     time: 2017-2018
     university: FIAP
 
@@ -38,7 +38,7 @@ skills:
 profile: |
   Self-motivated and team worker developer professional with 9+ years of experience,
   keen to use my knowledge to help society. My key skills are commitment, responsibility and willingness to learn new things.
-  Recent achievements include developing a new system for the LGPD / GDPR. |
+  Recent achievements include developing a new system for the LGPD / GDPR.
 
 # Experience
 experience:
@@ -46,9 +46,7 @@ experience:
     time: Sep/2019 - present
     company: ICarros
     details: |
-      Responsibilities:
-      *Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
-      *Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+      Responsibilities: \n-Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers; \nWorking alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
       Achievements :
       *Having been elected to the recognition program with just over 1 year in the company;
@@ -60,7 +58,7 @@ experience:
     company: Engineering
     details: |
       Responsibilities:
-      *Maintaining and improving projects, doing the frontend and backend; |
+      *Maintaining and improving projects, doing the frontend and backend;
     technologies_used: |
       Java, HTML, CSS, Angular, Spring, SQL Server
 
@@ -85,8 +83,8 @@ experience:
     company: Bradesco
     details: |
       Responsibilities:
-        \n *Worked on the department main project, Budget Application for Bradesco branches;
-        > *Attended meetings with all departments to understand needs and priorities.
+      *Worked on the department main project, Budget Application for Bradesco branches;
+      *Attended meetings with all departments to understand needs and priorities.
       Achievements:
         *Started as an intern, being hired after probation time.
         *Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
