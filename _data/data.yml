@@ -48,11 +48,11 @@ experience:
     time: Sep/2019 - present
     company: ICarros
     details: |+
-      <br>Responsibilities:
-      - Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers; \nWorking alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+      Responsibilities:
+      <br>- Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers; \nWorking alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
-      Achievements :
-      -Having been elected to the recognition program with just over 1 year in the company;
+      <br><br>Achievements :
+      <br>-Having been elected to the recognition program with just over 1 year in the company;
     technologies_used: | 
       Java, Spring, Kubernetes, Git, PostgreSQL
 
@@ -61,7 +61,7 @@ experience:
     company: Engineering
     details: |
       Responsibilities:
-      *Maintaining and improving projects, doing the frontend and backend;
+      <br>-Maintaining and improving projects, doing the frontend and backend;
     technologies_used: |
       Java, HTML, CSS, Angular, Spring, SQL Server
 
@@ -70,14 +70,14 @@ experience:
     company: Bradesco
     details: |
       Responsibilities:
-      *Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
-      *Keeping internal clients updated, giving technical feedback in the tickets system and contacting them directly;
-      *Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+      <br>-Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
+      <br>-Keeping internal clients updated, giving technical feedback in the tickets system and contacting them directly;
+      <br>-Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
-      Achievements:
-      *Developed a FAQ Application: responsive application for all 5K Bradesco Branches and internal departments using Java, SQL Server, Spring MVC and Bootstrap. This project allowed Bradesco employees to increase awareness of all the department tools, decreased department ticket requests by 60%, and relieved the department team from level 1 issues.
-      *Optimised SQL Server database (tables structures, indexes and queries);
-      *Raised the security concern, finding and fixing security flaws in different projects.
+      <br><br>Achievements:
+      <br>-Developed a FAQ Application: responsive application for all 5K Bradesco Branches and internal departments using Java, SQL Server, Spring MVC and Bootstrap. This project allowed Bradesco employees to increase awareness of all the department tools, decreased department ticket requests by 60%, and relieved the department team from level 1 issues.
+      <br>-Optimised SQL Server database (tables structures, indexes and queries);
+      <br>-Raised the security concern, finding and fixing security flaws in different projects.
     technologies_used: | 
       Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
@@ -86,12 +86,13 @@ experience:
     company: Bradesco
     details: |
       Responsibilities:
-      *Worked on the department main project, Budget Application for Bradesco branches;
-      *Attended meetings with all departments to understand needs and priorities.
-      Achievements:
-        *Started as an intern, being hired after probation time.
-        *Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
-        *Brought Bootstrap and responsiveness to the applications;
+      <br>-Worked on the department main project, Budget Application for Bradesco branches;
+      <br>-Attended meetings with all departments to understand needs and priorities.
+
+      <br><br>Achievements:
+        <br>-Started as an intern, being hired after probation time.
+        <br>-Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
+        <br>-Brought Bootstrap and responsiveness to the applications;
     technologies_used: |
       Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
