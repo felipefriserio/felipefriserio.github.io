@@ -5,8 +5,8 @@ fork: true
 # Sidebar
 contact:
   email: felipefriserio@gmail.com
-  github: https://github.com/felipefriserio
-  linkedin: https://www.linkedin.com/in/felipe-riserio/
+  github: felipefriserio
+  linkedin: felipe-riserio
   phone: 
   gitlab: 
   twitter: 
@@ -16,7 +16,7 @@ languages:
   - idiom: English
 
 education:
-  - degree: MBA Java Applications Development - SOA and IoT
+  - degree: MBA Java Applications Development
     time: 2017-2018
     university: FIAP
 
@@ -47,11 +47,11 @@ experience:
     company: ICarros
     details: |
       Responsibilities:
-      -Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
-      -Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+      *Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
+      *Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
       Achievements :
-      -Having been elected to the recognition program with just over 1 year in the company; |
+      *Having been elected to the recognition program with just over 1 year in the company;
     technologies_used: | 
       Java, Spring, Kubernetes, Git, PostgreSQL
 
@@ -60,7 +60,7 @@ experience:
     company: Engineering
     details: |
       Responsibilities:
-      -Maintaining and improving projects, doing the frontend and backend; |
+      *Maintaining and improving projects, doing the frontend and backend; |
     technologies_used: |
       Java, HTML, CSS, Angular, Spring, SQL Server
 
@@ -69,14 +69,14 @@ experience:
     company: Bradesco
     details: |
       Responsibilities:
-      -Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
-      -Keeping internal clients updated, giving technical feedback in the tickets system and contacting them directly;
-      -Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+      *Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
+      *Keeping internal clients updated, giving technical feedback in the tickets system and contacting them directly;
+      *Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
       Achievements:
-      -Developed a FAQ Application: responsive application for all 5K Bradesco Branches and internal departments using Java, SQL Server, Spring MVC and Bootstrap. This project allowed Bradesco employees to increase awareness of all the department tools, decreased department ticket requests by 60%, and relieved the department team from level 1 issues.
-      -Optimised SQL Server database (tables structures, indexes and queries);
-      -Raised the security concern, finding and fixing security flaws in different projects. |
+      *Developed a FAQ Application: responsive application for all 5K Bradesco Branches and internal departments using Java, SQL Server, Spring MVC and Bootstrap. This project allowed Bradesco employees to increase awareness of all the department tools, decreased department ticket requests by 60%, and relieved the department team from level 1 issues.
+      *Optimised SQL Server database (tables structures, indexes and queries);
+      *Raised the security concern, finding and fixing security flaws in different projects. |
     technologies_used: | 
       Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
@@ -85,12 +85,12 @@ experience:
     company: Bradesco
     details: |
       Responsibilities:
-        -Worked on the department main project, Budget Application for Bradesco branches;
-        -Attended meetings with all departments to understand needs and priorities.
+        *Worked on the department main project, Budget Application for Bradesco branches;
+        *Attended meetings with all departments to understand needs and priorities.
       Achievements:
-        -Started as an intern, being hired after probation time.
-        -Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
-        -Brought Bootstrap and responsiveness to the applications; |
+        *Started as an intern, being hired after probation time.
+        *Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
+        *Brought Bootstrap and responsiveness to the applications; |
     technologies_used: |
       Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
