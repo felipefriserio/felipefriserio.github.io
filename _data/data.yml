@@ -19,15 +19,15 @@ education:
   - degree: |
       MBA Java
       Applications Development
-    time: 2017-2018
+    time: 2017 - 2018
     university: FIAP
 
   - degree: Bachelor in Information Systems
-    time: 2011-2014
+    time: 2011 - 2014
     university: University Mogi das Cruzes
 
   - degree: English coruse
-    time: Mar/2017-May/2017
+    time: Mar/2017 - May/2017
     university: International House - Dublin, Ireland
 
 skills:
@@ -47,11 +47,12 @@ experience:
   - role: Analyst Developer
     time: Sep/2019 - present
     company: ICarros
-    details: |
-      Responsibilities: \n-Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers; \nWorking alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+    details: |+
+      Responsibilities:
+      - Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers; \nWorking alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
 
       Achievements :
-      *Having been elected to the recognition program with just over 1 year in the company;
+      -Having been elected to the recognition program with just over 1 year in the company;
     technologies_used: | 
       Java, Spring, Kubernetes, Git, PostgreSQL
 
