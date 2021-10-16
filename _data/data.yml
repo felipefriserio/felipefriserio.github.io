@@ -1,108 +1,129 @@
-name: John Doe
+name: Felipe Riserio
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: felipefriserio@gmail.com
+  github: https://github.com/felipefriserio
+  linkedin: https://www.linkedin.com/in/felipe-riserio/
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Portuguese
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MBA Java Applications Development - SOA and IoT
+    time: 2017-2018
+    university: FIAP
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Bachelor in Information Systems
+    time: 2011-2014
+    university: University Mogi das Cruzes
+
+  - degree: English coruse
+    time: Mar/2017-May/2017
+    university: International House - Dublin, Ireland
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Java
+      - Spring framework
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Self-motivated and team worker developer professional with 9+ years of experience,
+  keen to use my knowledge to help society. My key skills are commitment, responsibility and willingness to learn new things.
+  Recent achievements include developing a new system for the LGPD / GDPR. |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Analyst Developer
+    time: Sep/2019 - present
+    company: ICarros
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Responsibilities:
+      -Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
+      -Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+
+      Achievements :
+      -Having been elected to the recognition program with just over 1 year in the company; |
     technologies_used: | 
-      Go, Angular, Typescript, C++
-  
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+      Java, Spring, Kubernetes, Git, PostgreSQL
+
+  - role: Analyst Developer
+    time: Feb/2019 - Sep/2019
+    company: Engineering
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Responsibilities:
+      -Maintaining and improving projects, doing the frontend and backend; |
+    technologies_used: |
+      Java, HTML, CSS, Angular, Spring, SQL Server
+
+  - role: Analyst Developer
+    time: Aug/2014 - Dec/2018
+    company: Bradesco
+    details: |
+      Responsibilities:
+      -Maintaining, improving and creating projects, doing the frontend, backend, database and managing servers;
+      -Keeping internal clients updated, giving technical feedback in the tickets system and contacting them directly;
+      -Working alongside the development manager and other analyst developers, being part of a core team to mentor and train other developers.
+
+      Achievements:
+      -Developed a FAQ Application: responsive application for all 5K Bradesco Branches and internal departments using Java, SQL Server, Spring MVC and Bootstrap. This project allowed Bradesco employees to increase awareness of all the department tools, decreased department ticket requests by 60%, and relieved the department team from level 1 issues.
+      -Optimised SQL Server database (tables structures, indexes and queries);
+      -Raised the security concern, finding and fixing security flaws in different projects. |
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
+  - role: Intern
+    time: Oct/2012 - Aug/2014
+    company: Bradesco
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Responsibilities:
+        -Worked on the department main project, Budget Application for Bradesco branches;
+        -Attended meetings with all departments to understand needs and priorities.
+      Achievements:
+        -Started as an intern, being hired after probation time.
+        -Helped the team to create a web based intranet for department activities, redirecting to other applications, employee registration, schedule meetings, borrowing a book in the department library and phone guide.
+        -Brought Bootstrap and responsiveness to the applications; |
+    technologies_used: |
+      Java, HTML, CSS, JavaScript, Bootstrap, Spring, SQL Server
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+#publications:
+#  - title: Random title of paper. An interesting one.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference, 2016
+
+#  - title: Second title of paper. An interesting one too.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference again, 2018
+
+#projects:
+#  - title: Cool Project
+#    link: #
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+#      tempor incididunt ut labore et dolore magna aliqua.
+
+#  - title: Cool Project
+#    link: #
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+#      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# volunteering:
+#  - time: 2020-Present
+    #    role: PR Manager
+    #company: Some random organization
+      #details: |
+      #Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      #tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      #quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
