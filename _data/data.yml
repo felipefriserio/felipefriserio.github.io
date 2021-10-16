@@ -16,7 +16,9 @@ languages:
   - idiom: English
 
 education:
-  - degree: Java Applications Development MBA
+  - degree: |
+      MBA Java
+      Applications Development
     time: 2017-2018
     university: FIAP
 
